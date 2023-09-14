@@ -1,0 +1,48 @@
+/* from style guide */
+
+body {
+    font-size: 15px;
+    font-family: 'Poppins';
+}
+
+main { 
+    width: 100%;
+}
+
+.inner {
+    width: 1120px;
+    margin: 0 auto;
+}
+/* colors */
+
+/* .border-top-red {
+    border-top: ;
+} */
+
+.title, .subtitle {
+    text-align: center;
+}
+
+
+.title p {
+    font-weight: bold;
+}
+
+.box-container { 
+    display: flex;
+    flex
+}
+
+.box-item {
+    border-left: 1px dotted blue;
+    border-right: 1px dotted blue;
+    width: calc (100%/3);
+}
+
+.box {
+    height: 200px;
+    border: 1px dotted red;
+}
+
+
+
